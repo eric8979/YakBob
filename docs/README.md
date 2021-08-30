@@ -1,6 +1,6 @@
 # Yak,Bob
 
-Yak,Bob is Social networking platform that provides university students a space for "BabYak".
+Yak,Bob is Social networking platform that provides university students a space for "BabYak"(밥약).
 
 ## What is "BabYak"?
 
